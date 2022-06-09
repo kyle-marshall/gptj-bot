@@ -1,0 +1,5 @@
+/.env
+/gptj-bot.service
+/out
+/start.sh
+/node_modules
